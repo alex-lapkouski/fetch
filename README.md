@@ -1,7 +1,7 @@
 # fetch
 QA Automation Engineer Exercise
 
-For this excersise I've used Playwright framework.
+For this excercise I've used Playwright framework.
 
 Instructions:
 
