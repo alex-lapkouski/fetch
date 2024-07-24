@@ -1,6 +1,8 @@
 # fetch
 QA Automation Engineer Exercise
 
+For this excersise I've used Playwright framework.
+
 Instructions:
 
 1. Install Python and Git
